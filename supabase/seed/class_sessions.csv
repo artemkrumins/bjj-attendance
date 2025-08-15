@@ -1,0 +1,8 @@
+template_name,starts_at,ends_at,coach_email,open_to_adults,open_to_kids,status,location
+Graplings U15,2025-08-18T16:15:00+03:00,2025-08-18T17:15:00+03:00,coach1@example.com,false,true,SCHEDULED,Main Hall
+Kids 5–6,2025-08-18T17:30:00+03:00,2025-08-18T18:15:00+03:00,coach2@example.com,false,true,SCHEDULED,Main Hall
+All Belts,2025-08-18T18:30:00+03:00,2025-08-18T20:00:00+03:00,coach3@example.com,true,false,SCHEDULED,Main Hall
+Fundamentals,2025-08-18T20:00:00+03:00,2025-08-18T21:00:00+03:00,coach4@example.com,true,false,SCHEDULED,Main Hall
+Morning Gi,2025-08-19T08:00:00+03:00,2025-08-19T09:00:00+03:00,coach1@example.com,true,false,SCHEDULED,Main Hall
+Competition Team,2025-08-22T17:15:00+03:00,2025-08-22T18:15:00+03:00,coach1@example.com,true,true,SCHEDULED,Main Hall
+Open Mat,2025-08-22T18:30:00+03:00,2025-08-22T20:00:00+03:00,coach5@example.com,true,false,SCHEDULED,Main Hall
